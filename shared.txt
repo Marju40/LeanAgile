@@ -1,1 +1,2 @@
-This is the shared file from feature1. 
+This is the shared file from feature1.
+This is the shared file from feature2.
